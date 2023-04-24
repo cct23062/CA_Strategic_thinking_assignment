@@ -1,0 +1,2 @@
+# CA_Strategic_thinking_assignment
+CA_Strategic_thinking_assignment_Grá,Ivan,Priya
