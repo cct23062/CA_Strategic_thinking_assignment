@@ -1,5 +1,5 @@
 # CA_Strategic_thinking_assignment
-CA_Strategic_thinking_assignment_Grá,Ivan,Priya
+CA_Strategic_thinking_assignment_Priya,Ivan
 
 Link-https://www.kaggle.com/datasets/gauravduttakiit/loan-defaulter
 
